@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/username/repo?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/DMS1804/repo?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/DMS1804/repo?style=for-the-badge">
 </p>
 
 <h1 align="center">🚀 Project Name</h1>
@@ -9,17 +9,22 @@
 ---
 
 ## ✨ Features
+
 - ⚡ Fast
 - 🔐 Secure
 - 🎨 Modern UI
 
 ## 🛠 Tech Stack
+
 <img src="https://skillicons.dev/icons?i=nodejs,react,firebase"/>
 
 ## 📸 Demo
+
 <img src="demo.gif"/>
 
 ## 📦 Installation
+
 ```bash
 npm install
 npm start
+```
