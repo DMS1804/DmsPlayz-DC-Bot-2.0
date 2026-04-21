@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/github/stars/DMS1804/repo?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Developer-DmsPlayz">
   <img src="https://img.shields.io/github/license/DMS1804/repo?style=for-the-badge">
 </p>
 
